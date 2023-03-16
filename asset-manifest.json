@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abia-Admin-dashboard/static/css/main.b50ef224.css",
+    "main.js": "/Abia-Admin-dashboard/static/js/main.cd93315d.js",
+    "index.html": "/Abia-Admin-dashboard/index.html",
+    "main.b50ef224.css.map": "/Abia-Admin-dashboard/static/css/main.b50ef224.css.map",
+    "main.cd93315d.js.map": "/Abia-Admin-dashboard/static/js/main.cd93315d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50ef224.css",
+    "static/js/main.cd93315d.js"
+  ]
+}
